@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="title">Guessing a number</string>
+    <string name="edit_txt_1">Enter a number around (1-5)</string>
+    <string name="check">Check</string>
+    <string name="result_yes">You Won!! Number is :</string>
+    <string name="result_No">You Lost!! Number is :</string>
+</resources>

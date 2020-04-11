@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListView_BaseAdapter</string>
+    <string-array name="countryNames">
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>United States</item>
+        <item>South Korea</item>
+    </string-array>
+    <string name="click">Click here to see the description</string>
+</resources>

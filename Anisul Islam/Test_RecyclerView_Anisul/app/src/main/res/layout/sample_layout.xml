@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_margin="5dp"
+    android:layout_height="wrap_content">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       android:background="#F44336"
+       android:padding="5dp"
+       >
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/titleCardTextViewId"
+           android:textSize="20sp"
+           android:textStyle="bold"
+           android:textAppearance="@style/TextAppearance.AppCompat"
+           android:text="Country"
+           />
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/descCardTextViewId"
+           android:textSize="12sp"
+           android:textStyle="bold"
+           android:textAppearance="@style/TextAppearance.AppCompat"
+           android:text="This is Description"
+           />
+   </LinearLayout>
+
+</androidx.cardview.widget.CardView>

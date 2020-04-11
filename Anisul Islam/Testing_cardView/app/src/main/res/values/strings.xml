@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing_cardView</string>
+    <string name="group">Groups</string>
+    <string name="add_members">Add Members</string>
+    <string name="post">Posts</string>
+    <string name="notifications">Notifications</string>
+</resources>

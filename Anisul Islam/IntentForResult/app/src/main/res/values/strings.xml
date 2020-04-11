@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intent For Result</string>
+    <string name="btn_txt">Go to next page</string>
+    <string name="previous_page">Go to previous page</string>
+    <string name="hint">Enter your name</string>
+</resources>

@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ListView_baseAdapter</string>
+    <string name="description">Click here to see description</string>
+    <string-array name="names">
+        <item>Bangladesh</item>
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>South Korea</item>
+        <item>United States</item>
+    </string-array>
+    <string name="bangladesh">
+        Bangladesh\n
+Country in South Asia\n\n
+Description\n
+The country is loved for its lush green landscape and numerous waterways. One of the most known means of transport is by the use of boats. These are some amazing things that the country is famous for. Bangladesh is home to Coxs Bazar, the longest Sea beach in the world.
+Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.
+    </string>
+    <string name="united_states">
+        United States\n
+Country in North America\n\n
+Description\n
+The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nations presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles Hollywood is famed for filmmaking.
+The United States of America is a North American nation that is the worlds most dominant economic and military power. Likewise, its cultural imprint spans the world, led in large part by its popular culture expressed in music, movies and television.
+    </string>
+    <string name="canada">
+        Canada\n
+Country in North America\n\n
+Description\n
+Canada is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres, making it the worlds second-largest country by total area.
+Maple syrup is most definitely something Canada is famous for, with around 80 per cent of the worlds maple syrup produced in Canada. Quebec is by far the largest producer thanks to its abundance of maple trees.
+
+    </string>
+    <string name="china">
+        China\n
+Country in East Asia\n\n
+Description\n
+China, officially the Peoples Republic of China, is a country in East Asia and is the worlds most populous country, with a population of around 1.428 billion in 2017. Covering approximately 9,600,000 square kilometers, it is the third largest or the fourth largest country by area.
+Ancient China was a land of invention. For centuries, China was much more advanced than most other countries in science and technology, astronomy and maths. The Chinese invented paper, the magnetic compass, printing, tea porcelain, silk and gunpowder, among other things.
+    </string>
+    <string name="australia">
+        Australia\n
+Country in Oceania\n\n
+Description\n
+Australia, officially the Commonwealth of Australia or simply the Commonwealth, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the worlds sixth-largest country by total area.
+Geographically speaking, Australia is a global anomaly. The Aussie mainland is the worlds largest island, and is the only continent to also double as an island. With some of the worlds oldest geological features, Australia is also the worlds driest continent.
+    </string>
+    <string name="germany">
+        Germany\n
+Country in Europe\n\n
+Description\n
+Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbräuhaus. Frankfurt, with its skyscrapers, houses the European Central Bank.
+    </string>
+    <string name="india">
+        India\n
+Country in South Asia\n\n
+Description\n
+India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.
+India is famous for its unity in diversity pledge.India is famous for its spices and our cuisine is world famous, no doubt in that. India is a country which has one of the richest and vivid histories and heritage. … Our country has largest democracy in the world and home to ancient Indus Valley civilization.
+    </string>
+    <string name="south_korea">
+        South Korea\n
+Country in East Asia\n\n
+Description\n
+South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the worlds most heavily militarized borders with North Korea. Its equally known for its green, hilly countryside dotted with cherry trees and centuries-old Buddhist temples, plus its coastal fishing villages, sub-tropical islands and high-tech cities such as Seoul, the capital.
+    </string>
+    <string name="brazil">
+        Brazil\n
+Country in South America\n\n
+Description\n
+Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers and with over 208 million people, Brazil is the worlds fifth-largest country by area and the sixth most populous.
+Brazil contains almost 60 percent of the Amazon rain forest. There are more species of monkeys in Brazil than anywhere else in the world. The Christ Redeemer Statue in Rio de Janeiro is one of the 7 Wonders of the World. Brazil has the most famous and celebrated carnival festival in the world.
+    </string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView_Array_Adapter</string>
+    <string-array name="name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>South Korea</item>
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>United States</item>
+    </string-array>
+</resources>

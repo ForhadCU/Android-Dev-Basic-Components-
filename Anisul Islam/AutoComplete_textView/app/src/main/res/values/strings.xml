@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">AutoComplete_textView</string>
+    <string name="county_name" translatable="false">Enter a country name</string>
+    <string-array name="country_names_list">
+        <item>Afganistan</item>
+        <item>Arab Amirat</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>Pakistan</item>
+        <item>Brazil</item>
+        <item>Newziland</item>
+        <item>Irland</item>
+        <item>Kajakistan</item>
+        <item>Indonasia</item>
+        <item>Canada</item>
+        <item>China</item>
+
+    </string-array>
+</resources>

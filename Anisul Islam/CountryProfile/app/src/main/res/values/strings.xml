@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Country Profile</string>
+    <string name="text_title">COUNTRY MAPS</string>
+    <string name="btn_txt_1">Bangladesh</string>
+    <string name="btn_txt_2">China</string>
+    <string name="btn_txt_3">Canada</string>
+    <string name="btn_txt_4">United States</string>
+    <string name="btn_txt_5">Australia</string>
+    <string name="exit">Exit</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_msg">Do you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="bangladesh">
+        Bangladesh\n
+        Country in South Asia\n
+        The country is loved for its lush green landscape and numerous waterways.
+        One of the most known means of transport is by the use of boats.
+        These are some amazing things that the country is famous for.
+        Bangladesh is home to Cox bazar, the longest Sea beach in the world.
+        Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.
+        Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common.
+        On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.
+    </string>
+
+    <string name="china">
+        China\n
+        Country in East Asia\n
+        China, officially the Peoples Republic of China, is a country in East Asia and is the world most populous country, with a population of around 1.428 billion in 2017. Covering approximately 9,600,000 square kilometers, it is the third largest or the fourth largest country by area.
+        Ancient China was a land of invention. For centuries, China was much more advanced than most other countries in science and technology, astronomy and maths. The Chinese invented paper, the magnetic compass, printing, tea porcelain, silk and gunpowder, among other things.
+    </string>
+
+    <string name="canada">
+        Canada\n
+        Country in North America\n
+        Canada is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres, making it the worlds second-largest country by total area.
+        Maple syrup is most definitely something Canada is famous for, with around 80 per cent of the worlds maple syrup produced in Canada. Quebec is by far the largest producer thanks to its abundance of maple trees.
+    </string>
+
+    <string name="usa">
+        United States\n
+        Country in North America\n
+        The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nations presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles Hollywood is famed for film-making.
+        The United States of America is a North American nation that is the worlds most dominant economic and military power. Likewise, its cultural imprint spans the world, led in large part by its popular culture expressed in music, movies and television.
+    </string>
+
+    <string name="australia">
+        Australia\n
+        Country in Oceania\n
+        Australia, officially the Commonwealth of Australia or simply the Commonwealth, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the world sixth-largest country by total area.
+        Geographically speaking, Australia is a global anomaly. The Aussie mainland is the worlds largest island, and is the only continent to also double as an island. With some of the worlds oldest geological features, Australia is also the worlds driest continent.
+    </string>
+
+
+
+</resources>

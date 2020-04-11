@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Edit Text Testing</string>
+    <string name="edit_text_1">Enter number 1</string>
+    <string name="edit_text_2">Enter number 2</string>
+    <string name="add_btn">ADD</string>
+    <string name="sub_btn">SUB</string>
+</resources>
