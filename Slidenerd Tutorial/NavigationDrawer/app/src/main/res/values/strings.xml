@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="drawer_open">drawerLayout open</string>
+    <string name="drawer_close">drawerLayout close</string>
+
+    <string-array name="game_name_list">
+        <item>Call of duty mobile</item>
+        <item>Pubg Mobile</item>
+        <item>Free Fire</item>
+        <item>Gt racing 2</item>
+        <item>Pes 20</item>
+        <item>Mafia 2</item>
+    </string-array>
+</resources>

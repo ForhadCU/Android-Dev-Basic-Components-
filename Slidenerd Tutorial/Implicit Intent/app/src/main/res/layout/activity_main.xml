@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0091EA"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/mapButtonId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="288dp"
+        android:layout_marginEnd="120dp"
+        android:text="Launch Google Map"
+        android:textAllCaps="false"
+        android:onClick="buttonClickMethod"
+        />
+
+    <Button
+        android:id="@+id/playStoreButtonId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mapButtonId"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="125dp"
+        android:text="Launch Playstore"
+        android:textAllCaps="false"
+        android:onClick="buttonClickMethod"
+        />
+
+    <Button
+        android:id="@+id/emailSendButtonId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/playStoreButtonId"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="155dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="152dp"
+        android:layout_marginBottom="241dp"
+        android:text="Send Email"
+        android:textAllCaps="false"
+        android:onClick="buttonClickMethod"
+        />
+</RelativeLayout>
