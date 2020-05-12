@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="serif"
+            android:text="RecyclerView 1"
+            android:textColor="#304FFE"
+            android:textStyle="bold" />
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="#304FFE"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/textView1"
+            android:id="@+id/recyclerView1_Id"
+            />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/recyclerView1_Id"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="serif"
+            android:text="RecyclerView 2"
+            android:textColor="#D500F9"
+            android:textStyle="bold" />
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="#80D500F9"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/textView2"
+            android:id="@+id/recyclerView2_Id"
+            />
+
+</RelativeLayout>

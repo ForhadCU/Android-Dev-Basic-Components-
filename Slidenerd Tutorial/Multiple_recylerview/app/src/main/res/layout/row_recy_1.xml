@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:background="#FFEA00"
+    android:padding="10dp"
+    android:gravity="center_vertical"
+    android:layout_margin="5dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:id="@+id/row1_imgV_id"
+        android:src="#FF3D00"
+        android:background="@drawable/cicle_background"
+        android:layout_marginEnd="5dp"
+        android:padding="10dp"
+        />
+
+    <TextView
+        android:id="@+id/row1_txtV_id"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:fontFamily="serif"
+        android:gravity="center_horizontal"
+        android:text="Title goes here"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>
