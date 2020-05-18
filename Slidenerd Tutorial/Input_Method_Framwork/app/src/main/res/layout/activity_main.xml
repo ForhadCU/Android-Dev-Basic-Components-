@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/actionSendId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+
+        android:hint="imeOptions='actionSend'"
+        android:imeOptions="actionSend"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/actionNextId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/actionSendId"
+        android:layout_margin="25dp"
+
+        android:hint="imeOptions='actionUnspecified'"
+        android:imeOptions="actionNext"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/actionDoneId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/actionNextId"
+
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="25dp"
+        android:hint="imeOptions='actionDone'"
+        android:imeOptions="actionDone"
+        android:inputType="textPersonName" />
+
+</RelativeLayout>
