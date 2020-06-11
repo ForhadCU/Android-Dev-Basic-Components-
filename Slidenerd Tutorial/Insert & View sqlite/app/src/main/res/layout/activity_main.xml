@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/nameId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="41dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/passId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nameId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="password"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/btnSave3Id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/passId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="36dp"
+        android:background="#1DE9B6"
+        android:onClick="insertMethod"
+        android:text="Insert"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/btnViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnSave3Id"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="95dp"
+        android:layout_marginTop="45dp"
+        android:background="#2979FF"
+        android:onClick="ViewMethod"
+        android:textStyle="bold"
+        android:text="View" />
+
+    <TextView
+        android:id="@+id/txtViewId_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnViewId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="143dp" />
+
+    <Button
+        android:id="@+id/btnClearId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnSave3Id"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="95dp"
+        android:layout_toEndOf="@+id/btnViewId"
+        android:background="#F50057"
+        android:onClick="clearMethod"
+        android:textStyle="bold"
+        android:text="Clear" />
+</RelativeLayout>
